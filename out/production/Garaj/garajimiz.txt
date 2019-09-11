@@ -1,0 +1,11 @@
+GIR 1 25 abc 341 
+GIR 2 27 fgc 134 
+GIR 3 29 ajk 241 
+GIR 4 35 lkc 753 
+GIR 5 45 pvc 598 
+GIR 6 70 est 909 
+GIR 1 29 gdc 531 
+GIR 2 74 dlb 674 
+GIR 3 21 opk 921
+GIR 2 55 son 555
+GIR 6 77 satir 777
